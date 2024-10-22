@@ -22,21 +22,3 @@ pip install rembg Pillow
 ## Usage
 1. Place your images in the designated input folder.
 2. Run the script to process images and generate output with white backgrounds.
-
-## Example
-```python
-# Example usage code (replace with your actual code)
-import os
-from rembg import remove
-from PIL import Image
-import io
-
-# Define input and output folder paths
-input_folder = 'input_images'
-output_folder = 'output_images'
-
-# Process images...
-```
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

@@ -37,8 +37,8 @@ def process_images(input_folder, output_folder):
             print(f'Processed: {filename}')
 
 # Define input and output folder paths
-input_folder = 'F:\Image-process\folder_in'  # Replace with your actual input folder path
-output_folder = 'F:\Image-process\folder_out'  # Replace with your desired output folder path
+input_folder = r'F:\python-tools\background-remover\folder_in'  # Replace with your actual input folder path
+output_folder = r'F:\python-tools\background-remover\folder_out'  # Replace with your desired output folder path
 
 # Run the process
 process_images(input_folder, output_folder)

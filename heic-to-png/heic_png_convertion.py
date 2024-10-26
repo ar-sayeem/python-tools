@@ -23,8 +23,8 @@ def convert_heic_to_png(input_folder, output_folder):
                 print(f"Converted: {filename} to {png_filename}")
 
 # Define the input and output folder paths
-input_folder = r"F:\python-tools\heic-to-png\folder_in"
-output_folder = r"F:\python-tools\heic-to-png\folder_out"
+input_folder = r"F:\python-tools\heic-to-png\folder_in"     # Replace with your actual input folder path
+output_folder = r"F:\python-tools\heic-to-png\folder_out"   # Replace with your actual input folder path
 
 
 # Run the conversion

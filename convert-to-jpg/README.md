@@ -52,7 +52,3 @@ pip install pillow
    ```
 
 3. **Check Output**: The converted JPG images will be saved in the specified output folder.
-
----
-
-Happy converting!

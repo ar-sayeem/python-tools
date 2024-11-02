@@ -1,17 +1,18 @@
-# JPG to PNG Converter
+# JPG to PNG Batch Converter
 
-This is a Python tool for converting images from JPG to PNG format in batch. Simply place your JPG images in an input folder, and the tool will process and save the converted PNG images in a specified output folder. This tool uses the `Pillow` library for image processing, making it reliable and efficient.
+A simple Python tool designed for batch conversion of JPG images to PNG format. With this tool, you can specify an input folder containing JPG images, and the tool will save the converted PNG images in a designated output folder. The tool uses the `Pillow` library to ensure high-quality image processing.
 
 ## Features
-- **Batch Processing**: Converts multiple JPG images from an input folder to PNG format in a single run.
-- **Customizable Folders**: Allows you to specify both the input folder for JPG images and the output folder for converted PNG images.
-- **Image Quality**: Maintains image quality during the conversion process with the powerful `Pillow` library.
+- **Batch Conversion**: Quickly converts multiple JPG images to PNG format in one run.
+- **Custom Folder Paths**: Allows users to specify both input and output folder paths for flexibility.
+- **Preserves Image Quality**: Processes images with `Pillow`, retaining quality and accuracy.
 
-## Required Modules
-- `Pillow` (Python Imaging Library)
+## Prerequisites
+- **Python** (version 3.6 or higher)
+- **Pillow** (Python Imaging Library for image processing)
 
 ## Installation
-Make sure you have Python installed, then install the required `Pillow` library:
+To get started, install the `Pillow` library by running:
 
 ```bash
 pip install Pillow

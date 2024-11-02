@@ -70,8 +70,8 @@ def process_images(input_folder, output_folder, target_size=(300, 400)):
             print(f'Processed: {filename}')
  
 # Define input and output folder paths
-input_folder = r'F:\python-tools\resize-image\input_folder'  # Replace with your actual input folder path
-output_folder = r'F:\python-tools\resize-image\output_folder'  # Replace with your desired output folder path
+input_folder = r'path\input_folder'  # Replace with your actual input folder path
+output_folder = r'path\output_folder'  # Replace with your desired output folder path
  
 # Run the process
 process_images(input_folder, output_folder, target_size=(300, 400))  # Set the output size to 3:4
